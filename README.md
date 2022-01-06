@@ -3,3 +3,5 @@
 I'm a JavaScript developer from **Toronto, Canada** 🇨🇦, currently living in **Medellin, Colombia** 🇨🇴
 
 I love the JavaScript language and its rich ecosystem and enjoy working across the entire stack.
+
+# 🧰 Tools and technologies I code with
