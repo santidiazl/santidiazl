@@ -4,7 +4,7 @@ I'm a JavaScript developer from **Toronto, Canada** 🇨🇦, currently living i
 
 I love the JavaScript language and its rich ecosystem and enjoy working across the entire Web development stack.
 
-### 🧰 Tools and technologies I code with
+## 🧰 Tools and technologies I code with
 
 ![](https://img.shields.io/badge/Languages-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Frameworks-React-informational?style=flat&logo=react&logoColor=white)
@@ -14,4 +14,5 @@ I love the JavaScript language and its rich ecosystem and enjoy working across t
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Frameworks-Gatsby-informational?style=flat&logo=gatsby&logoColor=white)
 ![](https://img.shields.io/badge/Languages-HTML/CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkhUTUw1PC90aXRsZT48cGF0aCBkPSJNMS41IDBoMjFsLTEuOTEgMjEuNTYzTDExLjk3NyAyNGwtOC41NjQtMi40MzhMMS41IDB6bTcuMDMxIDkuNzVsLS4yMzItMi43MTggMTAuMDU5LjAwMy4yMy0yLjYyMkw1LjQxMiA0LjQxbC42OTggOC4wMWg5LjEyNmwtLjMyNiAzLjQyNi0yLjkxLjgwNC0yLjk1NS0uODEtLjE4OC0yLjExSDYuMjQ4bC4zMyA0LjE3MUwxMiAxOS4zNTFsNS4zNzktMS40NDMuNzQ0LTguMTU3SDguNTMxeiIvPjwvc3ZnPg==)
+![](https://img.shields.io/badge/Tools-Sequelize-informational?style=flat&logo=sequelize&logoColor=white)
 
