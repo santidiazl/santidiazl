@@ -6,4 +6,5 @@ I love the JavaScript language and its rich ecosystem and enjoy working across t
 
 ### 🧰 Tools and technologies I code with
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
