@@ -2,7 +2,7 @@
 
 I'm a JavaScript developer from **Toronto, Canada** 🇨🇦, currently living in **Medellin, Colombia** 🇨🇴
 
-I love the JavaScript language and its rich ecosystem and enjoy working across the entire Web development stack.
+I love the JavaScript language and its rich ecosystem and enjoy working across the entire Web development stack as well as learning on a daily basis.
 
 ## 🧰 Tools and technologies I code with
 
