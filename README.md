@@ -2,7 +2,7 @@
 
 I'm a JavaScript developer from **Toronto, Canada** 🇨🇦.
 
-I love the JavaScript language and its rich ecosystem and enjoy in particular working on the front-end.
+I love the JavaScript language and its rich ecosystem and love, in particular, working with React.
 
 ## 🧰 Tools and technologies I code with
 
