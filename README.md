@@ -14,7 +14,7 @@ I love the JavaScript language and its rich ecosystem and love, in particular, w
 ![](https://img.shields.io/badge/Libraries-Express-informational?style=flat&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Frameworks-Gatsby-informational?style=flat&logo=gatsby&logoColor=white)
 ![](https://img.shields.io/badge/Languages-HTML/CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkhUTUw1PC90aXRsZT48cGF0aCBkPSJNMS41IDBoMjFsLTEuOTEgMjEuNTYzTDExLjk3NyAyNGwtOC41NjQtMi40MzhMMS41IDB6bTcuMDMxIDkuNzVsLS4yMzItMi43MTggMTAuMDU5LjAwMy4yMy0yLjYyMkw1LjQxMiA0LjQxbC42OTggOC4wMWg5LjEyNmwtLjMyNiAzLjQyNi0yLjkxLjgwNC0yLjk1NS0uODEtLjE4OC0yLjExSDYuMjQ4bC4zMyA0LjE3MUwxMiAxOS4zNTFsNS4zNzktMS40NDMuNzQ0LTguMTU3SDguNTMxeiIvPjwvc3ZnPg==)
-![](https://img.shields.io/badge/Tools-Sequelize-informational?style=flat&logo=sequelize&logoColor=white)
+![](https://img.shields.io/badge/ORMs-Sequelize-informational?style=flat&logo=sequelize&logoColor=white)
 
 ## 🧑🏽‍💻 Where to find me
 
