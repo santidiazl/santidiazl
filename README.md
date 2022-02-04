@@ -1,8 +1,8 @@
 # Hey! I'm Santiago. <img src="https://github.com/santidiazl/santidiazl/raw/main/waving-hand.gif" width="45px">
 
-I'm a JavaScript developer from **Toronto, Canada** 🇨🇦.
+I'm a front-end developer from **Toronto, Canada** 🇨🇦.
 
-I love the JavaScript language and its rich ecosystem and enjoy, in particular, working on the front-end with React and TypeScript.
+I love front-end development and its rich ecosystem and enjoy, in particular, working with React and TypeScript.
 
 ## 🧰 Tools and technologies I code with
 
