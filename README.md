@@ -2,7 +2,7 @@
 
 I'm a front-end developer from **Toronto, Canada** 🇨🇦.
 
-I love front-end development and its rich ecosystem and enjoy, in particular, working with React and TypeScript.
+I love front-end development and working with its rich ecosystem, particularly React and TypeScript.
 
 ## 🧰 Tools and technologies I code with
 
