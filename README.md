@@ -1,6 +1,6 @@
 # Hey! I'm Santiago. <img src="https://github.com/santidiazl/santidiazl/raw/main/waving-hand.gif" width="45px">
 
-I'm a front-end developer from **Toronto, Canada** 🇨🇦.
+I'm a front-end developer from **Toronto, Canada** 🇨🇦 currently based in **Colombia**.
 
 I love front-end development and working in its rich ecosystem, and in particular with React and TypeScript.
 
