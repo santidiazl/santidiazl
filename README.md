@@ -12,6 +12,7 @@ I love the JavaScript language and its rich ecosystem, and enjoy working across 
 ![](https://img.shields.io/badge/Libraries-React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Runtimes-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Frameworks-Express-informational?style=flat&logo=express&logoColor=white)
 
 ## 🧑🏽‍💻 Where to find me
 
