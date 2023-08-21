@@ -1,6 +1,8 @@
 # Hey! I'm Santiago. <img src="https://github.com/santidiazl/santidiazl/raw/main/waving-hand.gif" width="45px">
 
-I'm a front-end developer based in **Colombia** 🇨🇴 and I currently work for [Globant](https://www.globant.com/).
+I'm a front-end software developer with 3 years experience building production-grade Web user interfaces.
+
+I'm currently building the UIs of cloud-based Web applications that power business-critical workflows for Disney’s media supply-chain management.
 
 ## 🧰 Tools and technologies I code with
 
