@@ -1,6 +1,6 @@
 # Hey! I'm Santiago. <img src="https://github.com/santidiazl/santidiazl/raw/main/waving-hand.gif" width="45px">
 
-I'm a front-end software developer with 3 years experience building production-grade Web user interfaces.
+I'm a front-end software developer with 3.5+ years experience building production-grade Web user interfaces.
 
 I'm currently building the UIs of cloud-based Web applications that power business-critical workflows for Disney’s media supply-chain management.
 
